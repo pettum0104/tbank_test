@@ -2,7 +2,7 @@ from sys import stdout
 
 from loguru import logger
 
-BOT_TOKEN = '7878286640:AAH12xKQwFlvWKhybxmxVnaBuKIkLvvxBdc' #"BOT_TOKEN_ВСТАВИТЬ_СЮДА"
+BOT_TOKEN = "7878286640:AAH12xKQwFlvWKhybxmxVnaBuKIkLvvxBdc"
 USE_GPU = False  # True если используется Cuda
 
 

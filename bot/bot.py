@@ -17,7 +17,7 @@ qa_model = QuestionAnsweringModel(model_name, state_dict_path)
 
 
 async def send_welcome(message: Message):
-    await message.reply("Привет! Задай свой вопрос")
+    await message.reply("Привет! Задай свой вопрос:")
 
 
 async def answer_question(message: Message):
